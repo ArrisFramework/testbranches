@@ -8,4 +8,9 @@ class TestClass
     {
 
     }
+
+    public function v2()
+    {
+
+    }
 }
