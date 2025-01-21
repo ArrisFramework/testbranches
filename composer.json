@@ -1,0 +1,16 @@
+{
+    "name": "karelwintersky/arris.test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Karelwintersky\\ArrisTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Karel Wintersky",
+            "email": "wombat@fontanka.ru"
+        }
+    ],
+    "require": {}
+}
