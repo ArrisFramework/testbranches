@@ -13,4 +13,9 @@ class TestClass
     {
 
     }
+
+    public function v11()
+    {
+
+    }
 }
